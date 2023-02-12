@@ -9,10 +9,7 @@ This is a  list of resources about Searchable Symmetric Enryption (SSE) or Symme
     * [Security and Verificaiton](#security-and-verificaiton-by-zjc)
     * [SSE and OPE](#sse-and-ope-by-cx)
     
-* Software
 * Dataset
-* Contributors
-
 
 ## Theory
 
@@ -33,7 +30,7 @@ This is a  list of resources about Searchable Symmetric Enryption (SSE) or Symme
 7.[2016] Verifiable dynamic symmetric searchable encryption: Optimality and forward security
 
 ### Different Aspects
-#### Different Aspects1
+
 #### Graph by DXT
 
 [2010 ASIACRYPT] Structured encryption and controlled disclosure
