@@ -16,19 +16,19 @@ This is a  list of resources about Searchable Symmetric Enryption (SSE) or Symme
 
 ### Introductory Papers
 
-1.[2006] Searchable symmetric encryption: improved definitions and efficient constructions
+* [2006] Searchable symmetric encryption: improved definitions and efficient constructions
 
-2.[2010] Structured Encryption and Controlled Disclosure
+* [2010] Structured Encryption and Controlled Disclosure
 
-3.[2013] Highly-Scalable Searchable Symmetric Encryption with Support for Boolean Queries
+* [2013] Highly-Scalable Searchable Symmetric Encryption with Support for Boolean Queries
 
-4.[2014] Dynamic Searchable Encryption in Very-Large Databases: Data Structures and Implementation
+* [2014] Dynamic Searchable Encryption in Very-Large Databases: Data Structures and Implementation
 
-5.[2015] Leakage-abuse attacks against searchable encryption
+* [2014] The Locality of Searchable Symmetric Encryption
+ 
+* [2015] Leakage-abuse attacks against searchable encryption
 
-6.[2014] The Locality of Searchable Symmetric Encryption
-
-7.[2016] Verifiable dynamic symmetric searchable encryption: Optimality and forward security
+* [2016] Verifiable dynamic symmetric searchable encryption: Optimality and forward security
 
 ### Different Aspects
 
@@ -77,11 +77,11 @@ This is a  list of resources about Searchable Symmetric Enryption (SSE) or Symme
 
 * [2021 NDSS] Practical Non-Interactive Searchable Encryption with Forward and Backward Privacy
 
-* [2022 Cryptography] Mihailescu M I, Nita S L. A searchable encryption scheme with biometric authentication and authorization for cloud environments
+* [2022 Cryptography] A searchable encryption scheme with biometric authentication and authorization for cloud environments
 
 
 #### SSE and OPE by CX
-* [2014] Dynamic searchable encryption in very-large databases: Data structures and implementation[J]. Cryptology ePrint Archive
+* [2014 Cryptology ePrint Archive] Dynamic searchable encryption in very-large databases: Data structures and implementation
 
 * [2017 TDSC] Privacy-preserving multi-keyword top-k similarity search over encrypted data
 
