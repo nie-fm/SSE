@@ -83,7 +83,10 @@ This is a  list of resources about Searchable Symmetric Enryption (SSE) or Symme
 #### SSE and OPE by CX
 * [2014 Cryptology ePrint Archive] Dynamic searchable encryption in very-large databases: Data structures and implementation
 
+* [2016 TDSC] POPE:Partial Order Preserving Encoding
+
 * [2017 TDSC] Privacy-preserving multi-keyword top-k similarity search over encrypted data
+
 
 #### SSE and DP by FYK
 * [2021 CCS] Datalens: Scalable privacy preserving training via gradient compression and aggregation
