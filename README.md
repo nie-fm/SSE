@@ -46,6 +46,7 @@ This is a  list of resources about Searchable Symmetric Enryption (SSE) or Symme
 
 * [2018 CLUSTER] SearchaStore: Fast and secure searchable cloud services
 
+* [2022] SPPS: A Search Pattern Privacy System for Approximate Shortest Distance Query of Encrypted Graphs in IIoT
 
 
 #### security and verificaiton by ZJC
@@ -65,11 +66,15 @@ This is a  list of resources about Searchable Symmetric Enryption (SSE) or Symme
 
 * [2017 CCS] Forward secure dynamic searchable symmetric encryption with efficient updates
 
+* [2017 CCS] Forward and Backward Private Searchable Encryption from Constrained Cryptographic Primitives
+
 * [2017 ACISP] Dynamic searchable symmetric encryption with physical deletion and small leakage
 
 * [2018 ICICS] A multi-client dynamic searchable symmetric encryption system with physical deletion
 
 * [2018 CANDARW] Updatable Searchable Symmetric Encryption with fine-grained delete functionality
+
+* [2018 CCS] Practical Backward-Secure Searchable Encryption from Symmetric Puncturable Encryption
 
 * [2019 TPDS] Fast AES implementation: A high-throughput bitsliced approach
 
